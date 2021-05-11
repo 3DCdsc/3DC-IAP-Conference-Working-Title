@@ -37,7 +37,7 @@
         "@fullcalendar/timegrid": "^4.3.0",
         "bootstrap": "4.3.1",
         "gulp-uglifyes": "^0.2.1",
-        "jquery": "3.4.1"
+        "jquery": "3.5.0"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
